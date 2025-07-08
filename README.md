@@ -50,3 +50,34 @@ Hotel Room Booking System(HRBS)/
 - Project built as part of Full Stack Java Developer training and MCA program (2024–2026).
 - Can be enhanced into a **web-based version** using Spring Boot & React in future.
 
+
+## 📸 Screenshots
+
+### 🔐 Login Page  
+![Login Page](LoginPage.png)
+
+### 🧑‍💼 Admin Dashboard  
+![Admin Page](AdminPage.png)
+
+### 🏨 Check-In Page  
+![Check-In](CheckInPage.png)
+
+### 📤 Check-Out Page  
+![Check-Out](CheckOutPage.png)
+
+### 💳 Payment Page  
+![Payment](PaymentPage.png)
+
+### 📄 Bill Details  
+![Bill Details](BillDetailsPage.png)
+
+### 🖨️ Print Bill Page  
+![Print Bill](PrintBillPage.png)
+
+### 🏠 Homepage  
+![Homepage](Homepage.png)
+
+### 🔄 Loading Screen  
+![Loading](LoadingPage.png)
+
+
